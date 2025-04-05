@@ -1,7 +1,7 @@
 ### <div align="center">I'm Saumya, a full time backend developer 👨‍💻Developing enterprise products from last 6 years  🚀</div>  
   
 
-- 🔭 I’m currently working on [Lets Chat Full stack Application](https://github.com/Saumya-R-Mishra/LetsChat)  
+- 🔭 I’m currently working on [Lets Chat Full stack Application](https://github.com/Saumya-Ranjan-Mishra/LetsChat)  
   
 
 - 🌱 I’m currently learning React and Express JS  
